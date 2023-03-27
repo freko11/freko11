@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm wei jie</h1>
 - 🌱 I’m currently learning **ML integration with GCP**
 
-- 👨‍💻 All of my projects are available at [lenweijie.com](lenweijie.com)
-
 - 📫 How to reach me **lenweijie@yahoo.com.sg**
+
+- 👨‍💻 All of my projects are available at [lenweijie.com](lenweijie.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
