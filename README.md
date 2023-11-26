@@ -6,7 +6,7 @@ My name is Wei Jie
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [lenweijie.com](http://lenweijie.com)
 * ✉️  You can contact me at [lenweijie@yahoo.com.sg](mailto:lenweijie@yahoo.com.sg)
-* 🧠  I'm learning ML integration with GCP.
+
 
 ### Skills
 
